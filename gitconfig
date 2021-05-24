@@ -1,0 +1,9 @@
+[user]
+	name = iScottMark
+	email = xiaoma_hebut@163.com
+[alias]
+	sw = switch
+	ci = commit -m
+	br = branch
+	s = status
+	dog = log --all --decorate --oneline --graph
